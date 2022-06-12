@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/marcellecode-portifolio/static/css/main.b978fc95.css",
+    "main.js": "/marcellecode-portifolio/static/js/main.7df729f0.js",
+    "static/js/787.1aea6bcb.chunk.js": "/marcellecode-portifolio/static/js/787.1aea6bcb.chunk.js",
+    "index.html": "/marcellecode-portifolio/index.html",
+    "main.b978fc95.css.map": "/marcellecode-portifolio/static/css/main.b978fc95.css.map",
+    "main.7df729f0.js.map": "/marcellecode-portifolio/static/js/main.7df729f0.js.map",
+    "787.1aea6bcb.chunk.js.map": "/marcellecode-portifolio/static/js/787.1aea6bcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b978fc95.css",
+    "static/js/main.7df729f0.js"
+  ]
+}
